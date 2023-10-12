@@ -1,5 +1,5 @@
 # View WRITEUP.pdf to easily view created graphs
-====
+
 
 
 How to use plot.sh
